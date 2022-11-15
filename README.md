@@ -2,7 +2,7 @@
 Email matthew[dot]dworkin[at]gmail.com for access to private repositories
 
 ## Personal Projects
-- Connect Four AI Bot "Connie"
+- AI Bot for Connect Four: "Connie"
 - Web Scraper
 - Correlation One's West Coast Regional Competition
 
