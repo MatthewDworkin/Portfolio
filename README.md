@@ -15,4 +15,3 @@ Email matthew[dot]dworkin[at]gmail.com for access to private repositories
 - [Machine Learning](https://github.com/MatthewDworkin/cs188-proj5-machinelearning)
 - [Penguin Tower Defense](https://github.com/evansmattis/170project)
 - [Pairs Trading Algorithm: Capitalizing on CEF Discount Disparities During Downturns](https://github.com/MatthewDworkin/CEF)
-- 
