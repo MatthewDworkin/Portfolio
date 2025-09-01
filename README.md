@@ -8,6 +8,8 @@ Email matthew[dot]dworkin[at]gmail.com for access to private repositories
 
 ## Academic Projects
 - [Multimodal Transformer for Learning Mutual Information Across Video, Text, and Audio](https://github.com/MatthewDworkin/multimodal-representation/)
+    - [View the PDF](./papers/Learning%20Multimodal%20Representations%20in%20Token%20Space.pdf)
+    - [Watch the Presentation](https://www.youtube.com/watch?v=SuZBi7PrINc&ab_channel=MatthewDworkin)
 - [Neural Network Built from NumPy](https://github.com/MatthewDworkin/NumPy-Neural-Net)
 - AI for Pacman
     - [Search Algorithms](https://github.com/MatthewDworkin/cs188-proj1-search)
