@@ -7,6 +7,7 @@ Email matthew[dot]dworkin[at]gmail.com for access to private repositories
 - [Correlation One's West Coast Regional Competition](https://github.com/we-are-never-ever-getting-back-together/C1GamesStarterKit)
 
 ## Academic Projects
+- [Multimodal Transformer for Learning Mutual Information Across Video, Text, and Audio](https://github.com/MatthewDworkin/multimodal-representation/)
 - [Neural Network Built from NumPy](https://github.com/MatthewDworkin/NumPy-Neural-Net)
 - AI for Pacman
     - [Search Algorithms](https://github.com/MatthewDworkin/cs188-proj1-search)
