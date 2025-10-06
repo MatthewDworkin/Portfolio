@@ -10,6 +10,10 @@ Email matthew[dot]dworkin[at]gmail.com for access to private repositories
 - [Multimodal Transformer for Learning Mutual Information Across Video, Text, and Audio](https://github.com/MatthewDworkin/multimodal-representation/)
     - [Read the Paper](./papers/Learning%20Multimodal%20Representations%20in%20Token%20Space.pdf)
     - [Watch the Presentation](https://www.youtube.com/watch?v=SuZBi7PrINc&ab_channel=MatthewDworkin)
+- [Neural Radiance Field (NeRF)](https://github.com/MatthewDworkin/CS280A-proj5) for 3D Reconstruction and Novel View Generation
+
+    ![./examples/nerf.gif](./examples/nerf.gif)
+
 - [Neural Network Built from NumPy](https://github.com/MatthewDworkin/NumPy-Neural-Net)
 - AI for Pacman
     - [Search Algorithms](https://github.com/MatthewDworkin/cs188-proj1-search)
