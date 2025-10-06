@@ -10,7 +10,7 @@ Email matthew[dot]dworkin[at]gmail.com for access to private repositories
       <h3>Multimodal Transformer for Learning Mutual Information Across Video, Text, and Audio</h3>
       <p><a href="https://github.com/MatthewDworkin/multimodal-representation/">Code</a></p>
       <p><a href="./papers/Learning%20Multimodal%20Representations%20in%20Token%20Space.pdf">Paper</a></p>
-      <p><a href="https://www.youtube.com/watch?v=SuZBi7PrINc">Video</a></p>
+      <p><a href="https://www.youtube.com/watch?v=SuZBi7PrINc">Video Presentation</a></p>
     </td>
     <td valign="top" style="padding: 8px;">
       <img src="./examples/multimodal.png" alt="Multimodal" width="250"/>
